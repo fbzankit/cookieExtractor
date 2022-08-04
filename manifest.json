@@ -1,0 +1,19 @@
+﻿{
+  "name": "Kaaja",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Kaaja Scrapping",
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+  "permissions": [
+    "cookies"
+  ],
+  "action": {
+    "default_title": "Kaaja",
+    "default_popup": "popup.html",
+    "default_icon": {
+    }
+  }
+}
